@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ember-cli/ember-cli-qunit",
   "dependencies": {
     "broccoli-babel-transpiler": "^5.5.0",
-    "broccoli-jshint": "^1.0.0",
+    "broccoli-jshint": "git@github.com:sandeshshastry/broccoli-jshint.git#ca0150bc148ecf35b53e5d09dbf8e59e4e2c898a",
     "broccoli-merge-trees": "^1.1.0",
     "broccoli-sourcemap-concat": "^1.1.6",
     "ember-cli-version-checker": "^1.1.4",
